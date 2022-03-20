@@ -2,8 +2,8 @@
 title:               Sonomama 
 tagline:             "John Bauer's Blog" 
 description:         'I am a Business Informatics interested in IT Security.'
-url:                 '' 
-baseurl:             ''
+url:                 'https://sono-mama.github.io/' 
+baseurl:             '/blog'
 paginate:            5
 permalink:           pretty
 
