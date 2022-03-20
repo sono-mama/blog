@@ -1,7 +1,7 @@
 # Setup
 title:               Sonomama 
 tagline:             "John Bauer's Blog" 
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'I am a Business Informatics interested in IT Security.'
 url:                 '' 
 baseurl:             ''
 paginate:            5
@@ -10,8 +10,8 @@ permalink:           pretty
 # About/contact
 author:
   name:              John Bauer 
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               
+  email:             johnbauerberlin@gmail.com
 
 # Gems
 plugins:
